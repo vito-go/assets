@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Default",
+    "protocol": "socks5",
+    "host": "myproxy.life",
+    "port": 19480,
+    "username": "freedom",
+    "password": "democracy",
+    "dns": "8.8.8.8"
+  },
+  {
+    "name": "nas",
+    "protocol": "socks5",
+    "host": "nas.1ge.link",
+    "port": 19480,
+    "username": "freedom",
+    "password": "democracy",
+    "dns": "8.8.8.8"
+  }
+]

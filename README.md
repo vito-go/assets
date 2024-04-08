@@ -1,2 +1,2 @@
 # assets
-aseets for my repository
+assets for my repository
