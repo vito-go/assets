@@ -1,31 +1,40 @@
 MyProxy Privacy Policy
-
 Effective Date: February 10, 2025
 
-Thank you for using MyProxy (the "App"). We value your privacy and are committed to protecting your personal information. This privacy policy explains how we handle your information.
+Thank you for using MyProxy (the "App"). We are committed to protecting your privacy. This Privacy Policy outlines how we handle your information.
 
-1. Information We Do Not Collect
+### 1. No Data Collection
+   MyProxy **DOES NOT**  collect, store, or transmit any personal data. We **DO NOT** collect any of the following:
+- IP addresses (public or destination)
 
-We do not collect, store, or share any personal data related to your usage of the app. Specifically, we do not track, record, or store any details about your internet activity, IP addresses, or other personal identifiers.
+- Device identifiers or advertising IDs
 
-2. No User Data Collection
+- Traffic logs or browsing activity
 
-When you use MyProxy, we do not collect or transmit any personally identifiable information. The app operates solely as a tool for you to configure proxies and VPN settings to protect your privacy without any data being captured by us.
+- Connection duration or timestamps
 
-3. Third-Party Services
+- Location data or network type
 
-MyProxy does not integrate with any third-party services that require the collection of personal data. We do not share or sell any user data to third parties.
+- Crash reports or diagnostic data
 
-4. Security
+- Personally identifiable information (PII) of any kind
 
-Although we do not collect any personal data, we still prioritize your security. All data transferred through the app (such as proxy settings and encrypted connections) remains secure and is not stored on our servers.
+### 2. No Built-in Analytics or Tracking
+   The App does not include any analytics SDKs, ad tracking libraries, or background telemetry services. Your usage of the App remains entirely on your device.
 
-5. Changes to This Privacy Policy
+### 3. Optional Server Configuration
+   MyProxy allows you to configure your own VPN or proxy servers. While the App may include a sample or default server for demonstration purposes, these servers operate independently and are **not designed or intended** to collect any user data.
 
-We may update this privacy policy from time to time. If we make any significant changes to how we handle your privacy, we will notify you through the app or through other appropriate means.
+### 4. Children’s Privacy
+   The App is not intended for children under the age of 13, and we do not knowingly collect information from children. Since the App requires no login or registration, we do not have any way of identifying the age of users.
 
-6. Contact Us
+### 5. Data Security
+   All network traffic routed through MyProxy is encrypted using secure protocols. Since no data is collected, there is nothing stored or at risk of breach.
 
-If you have any questions or concerns regarding this privacy policy or how we handle your privacy, feel free to contact us at:
+### 6. Changes to This Policy
+   We may update this Privacy Policy if the nature of the App changes in the future. All updates will be posted at the same link.
 
-Email: [liushihao888@gmail.com]
+### 7. Contact Us
+   If you have any questions or concerns, feel free to reach out:
+
+Contact Email: vitogo2024@gmail.com
