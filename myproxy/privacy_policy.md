@@ -1,4 +1,5 @@
 MyProxy Privacy Policy
+
 Effective Date: February 10, 2025
 
 Thank you for using MyProxy (the "App"). We are committed to protecting your privacy. This Privacy Policy outlines how we handle your information.
