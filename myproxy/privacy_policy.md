@@ -1,6 +1,6 @@
 # MyProxy Privacy Policy
 
-Effective Date: 2025-04-24 PDT
+Effective Date: 2025-05-13 PDT
 
 Thank you for using **MyProxy** (the "App"). We are committed to protecting your privacy. This Privacy Policy outlines how we handle your information.
 
@@ -31,7 +31,7 @@ To ensure service reliability, MyProxy records minimal **anonymous connection lo
 To improve app compatibility and optimize service delivery, MyProxy may report **anonymous client events**, including:
 
 - App startup (initial launch)
-- VPN connection attempts
+- VPN connection attempts, successes, failures, or disconnects
 
 These reports contain **only non-personal** technical details such as:
 
