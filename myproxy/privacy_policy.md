@@ -26,8 +26,22 @@ To ensure service reliability, MyProxy records minimal **anonymous connection lo
 
 > **We DO NOT store actual IP addresses**, and all logged information is **fully anonymized** and never associated with a user identity. Logs are rotated periodically and are **NOT shared with any third parties**.
 
+### 2a. Anonymous App Events
 
+To improve app compatibility and optimize service delivery, MyProxy may report **anonymous client events**, including:
 
+- App startup (initial launch)
+- VPN connection attempts
+
+These reports contain **only non-personal** technical details such as:
+
+- A random, non-resettable device ID (e.g., UUID)
+- App version and source channel
+- An approximate location (e.g., city, region, country) inferred from the device’s public IP address. This information is **coarse** and **CANNOT** be used to identify individual users.
+- Timestamp of the event
+- The selected server node identifier (e.g., "us1")
+
+These reports **DO NOT CONTAIN** user IP addresses, DNS queries, browsing history, or any data that could directly identify you. All reports are **anonymized**, used solely for improving service quality, and are **not shared with third parties**.
 
 ### 3. No Built-in Analytics or Tracking
    The App **does not** include any analytics SDKs, ad tracking libraries, or background telemetry services. Your usage of the App remains entirely on your device.
